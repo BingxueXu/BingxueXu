@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BingxueXu, a first year MSc student at KTH
-- 👀 I’m interested in robotics and cars
-- 🌱 I’m currently learning autonomous systems
-- 💞️ I’m looking for a summer job 2024, willing to collaborate on any interesting project
+- 👋 Hi, I’m @BingxueXu, an autonomous systems MSc student at KTH
+- 👀 I’m interested in robotics and self-driving vehicles
+- 🌱 I’m currently working on 3D perception by sensor fusion for autonomous driving systems
+- 💞️ I'm open to collaborate on any interesting project
 - 📫 Feel free to reach me at autoxue@gmail.com
 
 <!---
